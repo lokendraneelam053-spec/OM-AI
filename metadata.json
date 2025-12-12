@@ -1,0 +1,7 @@
+{
+  "name": "OM AI",
+  "description": "A supremely wise and spiritually grounded guide to Sanatana Dharma, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
